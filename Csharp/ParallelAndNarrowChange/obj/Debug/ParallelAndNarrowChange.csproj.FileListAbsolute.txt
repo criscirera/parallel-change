@@ -1,0 +1,15 @@
+/Users/cris/Cris/Voxel/katas/parallel-change/Csharp/ParallelAndNarrowChange/bin/Debug/ParallelAndNarrowChange.dll
+/Users/cris/Cris/Voxel/katas/parallel-change/Csharp/ParallelAndNarrowChange/bin/Debug/ParallelAndNarrowChange.pdb
+/Users/cris/Cris/Voxel/katas/parallel-change/Csharp/ParallelAndNarrowChange/bin/Debug/FluentAssertions.Core.dll
+/Users/cris/Cris/Voxel/katas/parallel-change/Csharp/ParallelAndNarrowChange/bin/Debug/FluentAssertions.dll
+/Users/cris/Cris/Voxel/katas/parallel-change/Csharp/ParallelAndNarrowChange/bin/Debug/nunit.framework.dll
+/Users/cris/Cris/Voxel/katas/parallel-change/Csharp/ParallelAndNarrowChange/bin/Debug/FluentAssertions.pdb
+/Users/cris/Cris/Voxel/katas/parallel-change/Csharp/ParallelAndNarrowChange/bin/Debug/FluentAssertions.xml
+/Users/cris/Cris/Voxel/katas/parallel-change/Csharp/ParallelAndNarrowChange/bin/Debug/FluentAssertions.Core.pdb
+/Users/cris/Cris/Voxel/katas/parallel-change/Csharp/ParallelAndNarrowChange/bin/Debug/FluentAssertions.Core.xml
+/Users/cris/Cris/Voxel/katas/parallel-change/Csharp/ParallelAndNarrowChange/bin/Debug/nunit.framework.xml
+/Users/cris/Cris/Voxel/katas/parallel-change/Csharp/ParallelAndNarrowChange/obj/Debug/ParallelAndNarrowChange.csproj.AssemblyReference.cache
+/Users/cris/Cris/Voxel/katas/parallel-change/Csharp/ParallelAndNarrowChange/obj/Debug/ParallelAndNarrowChange.csproj.CoreCompileInputs.cache
+/Users/cris/Cris/Voxel/katas/parallel-change/Csharp/ParallelAndNarrowChange/obj/Debug/ParallelAndNarrowChange.csproj.CopyComplete
+/Users/cris/Cris/Voxel/katas/parallel-change/Csharp/ParallelAndNarrowChange/obj/Debug/ParallelAndNarrowChange.dll
+/Users/cris/Cris/Voxel/katas/parallel-change/Csharp/ParallelAndNarrowChange/obj/Debug/ParallelAndNarrowChange.pdb
